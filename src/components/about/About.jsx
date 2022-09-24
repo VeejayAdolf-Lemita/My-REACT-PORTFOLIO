@@ -28,15 +28,15 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>Worldwide</small>
+              <small>International</small>
             </article>
             <article className='about__card'>
               <VscNewFolder className='about__icon'/>
               <h5>Projects</h5>
-              <small>3+ Years Working</small>
+              <small>4 Projects</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam natus aliquid porro tempora, quasi repellendus possimus culpa cumque aperiam, in officiis nobis blanditiis modi magni! Labore ad expedita dolore accusamus?</p>
+          <p>“Innovative Front End Developer with 2 years experience building and maintaining responsive websites. Proficient in HTML, CSS, jQuery, JavaScript and React; plus modern libraries and frameworks. Passionate about prototyping, design and possess working knowledge of Figma.“</p>
           <a href="#contact" className='btn-primary btn'>Let's Talk</a>
         </div>
       </div>
